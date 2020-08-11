@@ -1,0 +1,3 @@
+sequalize provides object oriented approach to the sql. 
+No need to use the string commands any more.
+It can be used with postgress, mysql server and windows server too.
